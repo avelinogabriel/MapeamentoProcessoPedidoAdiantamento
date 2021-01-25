@@ -1,4 +1,4 @@
 # MapeamentoProcessoPedidoAdiantamento
 Mapeamento do Processo de Pedido de Adiantamento
 
-Arquivos do Curso de Modelagem de Processos com Bizagi
+Arquivos de Projeto de Modelagem de Processos com Bizagi
